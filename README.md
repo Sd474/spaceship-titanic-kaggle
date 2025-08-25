@@ -64,4 +64,4 @@ Soumik Dey
 LinkedIn: https://www.linkedin.com/in/soumik-dey-669124335  
 Kaggle: https://www.kaggle.com/soumikdey442  
 
-"No guesses. Just good data, clean code, and well-tuned models."
+
